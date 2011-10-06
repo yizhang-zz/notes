@@ -1,2 +1,2 @@
 # Home
-[[a.md]]
+[file](a.md)
